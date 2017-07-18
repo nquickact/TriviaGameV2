@@ -1,0 +1,19 @@
+body {
+	background-image: url("//assets/images/back.gif");
+	
+	color:#0b8bf8;
+	font-size: 30px;
+}
+h1 {
+	font-size: 80px;
+	text-align: center;
+}
+#counter {
+	font-size: 50px;
+}
+button {
+	font-size: 80px;
+	color: #0b8bf8;
+	background-color: black;
+	margin-left: 37%;
+}
